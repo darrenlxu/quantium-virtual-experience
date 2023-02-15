@@ -13,3 +13,8 @@ Task One is [here](https://github.com/darrenlxu/quantium-virtual-experience/blob
 Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
 
 Task Two is [here](https://github.com/darrenlxu/quantium-virtual-experience/blob/main/Task_2.ipynb).
+
+<h3>Task Three: Analytics and commercial application</h3>
+
+Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
+
