@@ -11,3 +11,5 @@ Task One is [here](https://github.com/darrenlxu/quantium-virtual-experience/blob
 <h3>Task Two: Experimentation and uplift testing</h3>
 
 Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
+
+Task Two is [here](https://github.com/darrenlxu/quantium-virtual-experience/blob/main/Task_2.ipynb).
