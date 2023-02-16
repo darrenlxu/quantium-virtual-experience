@@ -18,3 +18,4 @@ Task Two is [here](https://github.com/darrenlxu/quantium-virtual-experience/blob
 
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
 
+Task Three is [here](https://github.com/darrenlxu/quantium-virtual-experience/blob/main/Task_3.pptx).
